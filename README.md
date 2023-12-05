@@ -7,8 +7,6 @@ This project aimed at training a neural network to predict Base64 files based on
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
