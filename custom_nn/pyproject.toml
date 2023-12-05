@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "custom-nn"
+version = "0.1.0"
+description = ""
+authors = ["Guido Mainardi <guidoluis.gm@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+ipykernel = "^6.27.1"
+torch = "^2.1.1"
+matplotlib = "^3.8.2"
+sentencepiece = "^0.1.99"
+tqdm = "^4.66.1"
+tokenizers = "^0.15.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
